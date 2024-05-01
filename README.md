@@ -8,8 +8,4 @@ All code used in this thesis can be found here.
 # Data Sharing
 In compliance with intellectual property rights and respecting Gap Inc.'s terms of service, the raw scraped data will not be openly distributed. 
 
-# Usage Guidelines
-Anyone using the code from this repository is urged to adhere to the ethical guidelines of data use, including respecting copyright norms and using the data responsibly and ethically. 
-Direct replication of the dataset for commercial purposes is not permitted without explicit consent from Gap Inc.
-
 
