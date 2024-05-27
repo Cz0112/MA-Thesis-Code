@@ -1,7 +1,7 @@
 # Introduction
-The content in this repository are for Celine Zhang's Master Thesis at the University of Chicago.
-The dataset utilized in this research was meticulously compiled using web scraping methods from the official Gap Inc. website, focusing on product descriptions to analyze the emphasis on sustainability. 
-ipynb files categorized to men and women are for data analysis code.
+The content in this repository is for Celine Zhang's Master's Thesis at the University of Chicago.
+The dataset used in this research was meticulously compiled using web scraping methods from the official Gap Inc. website, focusing on product descriptions to analyze the emphasis on sustainability. 
+Ipynb files categorized to men and women are for data analysis code.
 The ipynb file ending with sub is for data scraping code.
 
 # Code Sharing
